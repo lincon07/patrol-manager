@@ -50,20 +50,16 @@ Follow the instructions carefully, as some steps may be a bit tricky. Now, let's
 
 ## Images
 
-#### Home
-<img src="https://github.com/user-attachments/assets/82f99f6a-8a7a-449e-8501-9e76a13331c0" alt="Dark Theme Home" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/5a5f2af2-49f4-44f5-874a-24dec79d11aa" alt="Light Theme Home" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/bf35f095-bf59-4cc0-b058-340d9366fe51" alt="Dark Theme Home" width="500" height="300" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/5d3ca11e-c6fe-484e-a6ea-97dd78f1b7d5" alt="Light Theme Home" width="500" height="300" style="margin: 20px;">
 
 #### Settings
-<img src="https://github.com/user-attachments/assets/94ca90cd-5a31-44a3-bbae-3b7ea23c31d6" alt="Customized Dark Theme Settings" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/c3fbb710-e344-476f-995c-feefa31d08c1" alt="Customized Dark Theme Settings" width="500" height="300">
-
-#### Logs
-<img src="https://github.com/user-attachments/assets/464d6e22-1a93-42be-a393-6dbd62e7c016" alt="Customized Dark Theme Logs" width="1000" height="300">
+<img src="https://github.com/user-attachments/assets/1be30e5c-79ee-4d34-b449-91f680a3f4c4" alt="Customized Dark Theme Settings" width="500" height="300" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/008a5850-4464-4495-9194-cd544f848894" alt="Customized Dark Theme Settings" width="500" height="300" style="margin: 20px;">
 
 #### Patrol
-<img src="https://github.com/user-attachments/assets/8911f1fd-a9c0-4c21-8de0-1a4ac64f2d3c" alt="Customized Dark Theme Patrol" width="500" height="300">
-<img src="https://github.com/user-attachments/assets/a32eaf37-1d83-4e78-a576-01c844f85817" alt="Customized Dark Theme Patrol" width="500" height="300">
+<img src="https://github.com/user-attachments/assets/8911f1fd-a9c0-4c21-8de0-1a4ac64f2d3c" alt="Customized Dark Theme Patrol" width="500" height="300" style="margin: 20px;">
+<img src="https://github.com/user-attachments/assets/a32eaf37-1d83-4e78-a576-01c844f85817" alt="Customized Dark Theme Patrol" width="500" height="300" style="margin: 20px;">
 
 ---
 
