@@ -8,7 +8,7 @@ Follow the instructions carefully, as some steps may be a bit tricky. Now, let's
 
 ## Features
 
-- **Track Patrols**: Log start dates, end dates, and durations for both main patrols and subdivisions.
+- **Track & Fill Patrols**: Log start dates, end dates, and durations for both main patrols and subdivisions.
 - **Pause and Resume**: Manage patrol timing effortlessly with the ability to pause and resume.
 - **Activity Reminders**: Never forget to track your patrol time with helpful reminders.
 - **Authentication**: Automatic detection ensures you're in the community for instant approval.
