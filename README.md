@@ -1,5 +1,5 @@
 # Welcome to Patrol Manager
-Welcome to **Patrol Manager**, the ultimate utility tool for **DoJRP** members! As the developer, I hope you find this application helpful and user-friendly. While pull requests (PRs) are currently not accepted, your feedback and bug reports are highly encouraged. You can submit them directly through the app.
+Welcome to **Patrol Manager**, the ultimate utility tool for **DoJRP** members! As the developer, I hope you find this application helpful and user-friendly. While pull requests (PRs) are currently not accepted, your feedback and bug reports are highly encouraged. You can submit them directly through the app. I want to note that this will be released as a public Beta. Meaning there will be issues, bugs, errors, etc. 
 
 ### Key Reminder
 Follow the instructions carefully, as some steps may be a bit tricky. Now, let's dive into the features!
@@ -10,11 +10,19 @@ Follow the instructions carefully, as some steps may be a bit tricky. Now, let's
 
 - **Track & Fill Patrol Logs**: Log start dates, end dates, and durations for both main patrols and subdivisions.
 - **Pause and Resume**: Manage patrol timing effortlessly with the ability to pause and resume.
-- **Activity Reminders**: Never forget to track your patrol time with helpful reminders.
+- **Activity Reminders**: Never forget to end your patrol time with helpful reminders.
 - **Authentication**: Automatic detection ensures you're in the community for instant approval.
 - **Offline Support**: Patrol offline, and retrieve your generated URL when back online.
 - **Manage Logs**: View, delete, and regenerate patrol logs as needed.
 - **Auto-Updates**: Automatically update the app, departments, and servers with one-time installs.
+
+---
+
+## Disclaimers
+
+- **Responsibility**: While Patrol manager has been tested to a degree, there could still be issues and it is ultimately your **responsibility** to FactCheck the generated URL
+- **Limitations**: There are certain limitations that I as the developer could not go around, these are more commonly found in PD & HP due to their looping.
+- **Dormant Features**: There are certain Features such as Google TTS, Speech Recognition that are dormant as they aren't polished. 
 
 ---
 
@@ -41,8 +49,6 @@ Follow the instructions carefully, as some steps may be a bit tricky. Now, let's
 ---
 
 ## Images
-
-### Gallery
 
 #### Home
 <img src="https://github.com/user-attachments/assets/82f99f6a-8a7a-449e-8501-9e76a13331c0" alt="Dark Theme Home" width="500" height="300">
