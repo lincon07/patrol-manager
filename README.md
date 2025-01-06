@@ -28,7 +28,7 @@ Follow the instructions carefully, as some steps may be a bit tricky. Now, let's
 
 ## Installation Instructions
 
-1. **Download**: Install the app and its associated files  [**Download**](https://example.com/download).
+1. **Download**: Install the app and its associated files  [**Download**](https://www.dojrp.com/files/file/476-patrol-manager/).
    - **Note**: There may be a newer version available at the time of download. Be sure to check!
 
 2. **Launch**: Follow the on-screen instructions during the first app launch.
